@@ -3,13 +3,16 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <Alex BB> -- <Developer> -- <@winerides>
 
 # THANKS
 
-    <name>
+    <thanks to Marina Mele, I don't know you, but I'm very glad you put this tutorial together>
 
 # TECHNOLOGY COLOPHON
+    Django
+    HTML5 Boilerplate
+    Twitter Bootstrap
 
     HTML5, CSS3
     jQuery, Modernizr
